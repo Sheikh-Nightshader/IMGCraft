@@ -21,10 +21,12 @@ python3 imgcraft.py -h "help"
 IMGCraft2
 
 (Linux)
+
 python3 imgcraft2.py
 
 
 (Windows)
+
 python imgcraft2.py
 
 
